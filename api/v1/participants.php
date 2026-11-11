@@ -1,0 +1,3 @@
+<?php
+declare(strict_types=1);require __DIR__.'/_bootstrap.php';api_method('GET');
+$skillId=(int)($_GET['skill_id']??0);$zoneId=(int)($_GET['zone_id']??0);$sql="SELECT r.id,r.participant_name,r.institution,s.id skill_id,s.name skill_name,z.id zone_id,z.name zone_name,u.full_name coach_name FROM registrations r JOIN skills s ON s.id=r.skill_id JOIN zones z ON z.id=r.zone_id JOIN users u ON u.id=r.coach_user_id WHERE r.status='approved'";$params=[];if($skillId){$sql.=' AND r.skill_id=?';$params[]=$skillId;}if($zoneId){$sql.=' AND r.zone_id=?';$params[]=$zoneId;}$sql.=' ORDER BY s.sort_order,z.sort_order,r.participant_name';$stmt=db()->prepare($sql);$stmt->execute($params);json_response(['ok'=>true,'data'=>$stmt->fetchAll()]);

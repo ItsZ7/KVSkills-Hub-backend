@@ -1,0 +1,50 @@
+[
+  {
+    "category": "heavy",
+    "award": "Emas",
+    "min_score": 90,
+    "max_score": 100
+  },
+  {
+    "category": "heavy",
+    "award": "Perak",
+    "min_score": 80,
+    "max_score": 89.9999
+  },
+  {
+    "category": "heavy",
+    "award": "Gangsa",
+    "min_score": 70,
+    "max_score": 79.9999
+  },
+  {
+    "category": "heavy",
+    "award": "Medallion",
+    "min_score": 65,
+    "max_score": 69.9999
+  },
+  {
+    "category": "light",
+    "award": "Emas",
+    "min_score": 95,
+    "max_score": 100
+  },
+  {
+    "category": "light",
+    "award": "Perak",
+    "min_score": 90,
+    "max_score": 94.9999
+  },
+  {
+    "category": "light",
+    "award": "Gangsa",
+    "min_score": 85,
+    "max_score": 89.9999
+  },
+  {
+    "category": "light",
+    "award": "Medallion",
+    "min_score": 75,
+    "max_score": 84.9999
+  }
+]

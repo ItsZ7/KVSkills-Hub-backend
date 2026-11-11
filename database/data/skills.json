@@ -1,0 +1,200 @@
+[
+  {
+    "code": "B01",
+    "slug": "additive-manufacturing",
+    "name": "ADDITIVE MANUFACTURING",
+    "sort_order": 1,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B02",
+    "slug": "animation-and-multimedia",
+    "name": "ANIMATION AND MULTIMEDIA",
+    "sort_order": 2,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B03",
+    "slug": "automobile-technology",
+    "name": "AUTOMOBILE TECHNOLOGY",
+    "sort_order": 3,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B04",
+    "slug": "beauty-therapy",
+    "name": "BEAUTY THERAPY",
+    "sort_order": 4,
+    "assistant_count": 1,
+    "model_count": 1,
+    "assistant_note": "1 model dan 1 pembantu diwajibkan."
+  },
+  {
+    "code": "B05",
+    "slug": "bookkeeping",
+    "name": "BOOKKEEPING",
+    "sort_order": 5,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B06",
+    "slug": "bricklaying",
+    "name": "BRICKLAYING",
+    "sort_order": 6,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B07",
+    "slug": "carpentry",
+    "name": "CARPENTRY",
+    "sort_order": 7,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B08",
+    "slug": "cnc-milling",
+    "name": "CNC MILLING",
+    "sort_order": 8,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B09",
+    "slug": "cooking",
+    "name": "COOKING",
+    "sort_order": 9,
+    "assistant_count": 1,
+    "model_count": 0,
+    "assistant_note": "1 pembantu diwajibkan."
+  },
+  {
+    "code": "B10",
+    "slug": "electrical-installations",
+    "name": "ELECTRICAL INSTALLATIONS",
+    "sort_order": 10,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B11",
+    "slug": "electronics",
+    "name": "ELECTRONICS",
+    "sort_order": 11,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B12",
+    "slug": "fashion-technology",
+    "name": "FASHION TECHNOLOGY",
+    "sort_order": 12,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B13",
+    "slug": "graphic-design-technology",
+    "name": "GRAPHIC DESIGN TECHNOLOGY",
+    "sort_order": 13,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B14",
+    "slug": "it-network-and-system-admin",
+    "name": "IT NETWORK AND SYSTEM ADMIN",
+    "sort_order": 14,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B15",
+    "slug": "landscape-gardening",
+    "name": "LANDSCAPE GARDENING",
+    "sort_order": 15,
+    "assistant_count": 1,
+    "model_count": 0,
+    "assistant_note": "1 pembantu diwajibkan."
+  },
+  {
+    "code": "B16",
+    "slug": "mechanical-engineering-cad",
+    "name": "MECHANICAL ENGINEERING - CAD",
+    "sort_order": 16,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B17",
+    "slug": "painting-and-decorating",
+    "name": "PAINTING & DECORATING",
+    "sort_order": 17,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B18",
+    "slug": "patisserie-and-confectionery",
+    "name": "PATISSERIE & CONFECTIONERY",
+    "sort_order": 18,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B19",
+    "slug": "refrigeration-and-air-conditioning",
+    "name": "REFRIGERATION AND AIR-CONDITIONING",
+    "sort_order": 19,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B20",
+    "slug": "wall-and-floor-tiling",
+    "name": "WALL AND FLOOR TILING",
+    "sort_order": 20,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B21",
+    "slug": "web-technology",
+    "name": "WEB TECHNOLOGY",
+    "sort_order": 21,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  },
+  {
+    "code": "B22",
+    "slug": "welding",
+    "name": "WELDING",
+    "sort_order": 22,
+    "assistant_count": 0,
+    "model_count": 0,
+    "assistant_note": "Tiada pembantu peserta dibenarkan."
+  }
+]

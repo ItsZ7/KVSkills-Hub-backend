@@ -1,0 +1,78 @@
+[
+  {
+    "code": "V01",
+    "name": "Kolej Vokasional Ampangan",
+    "skills": [
+      "automobile-technology",
+      "animation-and-multimedia"
+    ]
+  },
+  {
+    "code": "V02",
+    "name": "Kolej Vokasional Juasseh",
+    "skills": [
+      "bookkeeping",
+      "graphic-design-technology",
+      "painting-and-decorating",
+      "refrigeration-and-air-conditioning"
+    ]
+  },
+  {
+    "code": "V03",
+    "name": "Kolej Vokasional Dato' Lela Maharaja",
+    "skills": [
+      "landscape-gardening"
+    ]
+  },
+  {
+    "code": "V04",
+    "name": "Kolej Vokasional Dato' Undang Haji Muhamad Sharip",
+    "skills": [
+      "fashion-technology",
+      "beauty-therapy",
+      "patisserie-and-confectionery"
+    ]
+  },
+  {
+    "code": "V05",
+    "name": "Kolej Vokasional Port Dickson",
+    "skills": [
+      "bricklaying",
+      "it-network-and-system-admin",
+      "welding",
+      "wall-and-floor-tiling",
+      "carpentry"
+    ]
+  },
+  {
+    "code": "V06",
+    "name": "Kolej Vokasional Kuala Klawang",
+    "skills": [
+      "electrical-installations",
+      "electronics"
+    ]
+  },
+  {
+    "code": "V07",
+    "name": "Kolej Vokasional Datuk Seri Abu Zahar Isnin",
+    "skills": [
+      "cooking",
+      "web-technology"
+    ]
+  },
+  {
+    "code": "V08",
+    "name": "Kolej Vokasional Datuk Seri Mohd Zin",
+    "skills": [
+      "additive-manufacturing",
+      "mechanical-engineering-cad"
+    ]
+  },
+  {
+    "code": "V09",
+    "name": "Kolej Vokasional Melaka Tengah",
+    "skills": [
+      "cnc-milling"
+    ]
+  }
+]

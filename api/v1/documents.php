@@ -1,0 +1,3 @@
+<?php
+declare(strict_types=1);require __DIR__.'/_bootstrap.php';api_method('GET');
+$category=$_GET['category']??null;$sql="SELECT d.id,d.title,d.category,d.original_filename,d.mime_type,d.file_size,s.id skill_id,s.name skill_name FROM documents d LEFT JOIN skills s ON s.id=d.skill_id WHERE d.visibility='public' AND d.is_active=1";$params=[];if(is_string($category)&&$category!==''){$sql.=' AND d.category=?';$params[]=$category;}$sql.=' ORDER BY s.sort_order,d.title';$stmt=db()->prepare($sql);$stmt->execute($params);$rows=$stmt->fetchAll();foreach($rows as &$r)$r['download_url']=url('download.php?id='.(int)$r['id']);json_response(['ok'=>true,'data'=>$rows]);

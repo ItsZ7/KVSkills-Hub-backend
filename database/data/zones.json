@@ -1,0 +1,52 @@
+[
+  {
+    "code": "Z01",
+    "name": "Kedah/Perlis",
+    "sort_order": 1
+  },
+  {
+    "code": "Z02",
+    "name": "Pulau Pinang",
+    "sort_order": 2
+  },
+  {
+    "code": "Z03",
+    "name": "Perak",
+    "sort_order": 3
+  },
+  {
+    "code": "Z04",
+    "name": "KL/Selangor",
+    "sort_order": 4
+  },
+  {
+    "code": "Z05",
+    "name": "Melaka/N9",
+    "sort_order": 5
+  },
+  {
+    "code": "Z06",
+    "name": "Johor",
+    "sort_order": 6
+  },
+  {
+    "code": "Z07",
+    "name": "Pahang",
+    "sort_order": 7
+  },
+  {
+    "code": "Z08",
+    "name": "Kelantan",
+    "sort_order": 8
+  },
+  {
+    "code": "Z09",
+    "name": "Terengganu",
+    "sort_order": 9
+  },
+  {
+    "code": "Z10",
+    "name": "Sabah/Sarawak",
+    "sort_order": 10
+  }
+]

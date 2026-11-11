@@ -1,0 +1,3 @@
+<?php
+declare(strict_types=1);require __DIR__.'/_bootstrap.php';api_method('GET');
+$level=$_GET['level']??null;$skillId=(int)($_GET['skill_id']??0);$sql='SELECT b.id,b.level,b.briefing_date,b.start_time,b.end_time,b.meeting_url,s.id skill_id,s.code skill_code,s.name skill_name FROM briefings b JOIN skills s ON s.id=b.skill_id WHERE b.is_published=1';$params=[];if(in_array($level,['zone','national'],true)){$sql.=' AND b.level=?';$params[]=$level;}if($skillId){$sql.=' AND b.skill_id=?';$params[]=$skillId;}$sql.=' ORDER BY b.briefing_date,b.start_time,s.sort_order';$stmt=db()->prepare($sql);$stmt->execute($params);json_response(['ok'=>true,'data'=>$stmt->fetchAll()]);

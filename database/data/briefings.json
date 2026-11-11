@@ -1,0 +1,310 @@
+[
+  {
+    "skill_slug": "additive-manufacturing",
+    "level": "zone",
+    "briefing_date": "2025-06-13",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/aue-mybt-fgk"
+  },
+  {
+    "skill_slug": "additive-manufacturing",
+    "level": "national",
+    "briefing_date": "2025-04-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/yuj-ffrd-boj"
+  },
+  {
+    "skill_slug": "animation-and-multimedia",
+    "level": "zone",
+    "briefing_date": "2025-06-10",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/zuh-bpxc-ipj"
+  },
+  {
+    "skill_slug": "animation-and-multimedia",
+    "level": "national",
+    "briefing_date": "2025-08-08",
+    "start_time": "09:30:00",
+    "meeting_url": "https://meet.google.com/ddf-xqjn-vcq"
+  },
+  {
+    "skill_slug": "automobile-technology",
+    "level": "zone",
+    "briefing_date": "2025-06-10",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/fzw-pyro-azw"
+  },
+  {
+    "skill_slug": "automobile-technology",
+    "level": "national",
+    "briefing_date": "2025-08-08",
+    "start_time": "09:30:00",
+    "meeting_url": "https://meet.google.com/yya-afqm-zsk"
+  },
+  {
+    "skill_slug": "beauty-therapy",
+    "level": "zone",
+    "briefing_date": "2025-06-11",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/ymw-gqwb-gjo"
+  },
+  {
+    "skill_slug": "beauty-therapy",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/bjx-ngfz-qxg"
+  },
+  {
+    "skill_slug": "bookkeeping",
+    "level": "zone",
+    "briefing_date": "2025-06-13",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/vpp-appu-mbn"
+  },
+  {
+    "skill_slug": "bookkeeping",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/hjt-bqva-vks-iny"
+  },
+  {
+    "skill_slug": "bricklaying",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "bricklaying",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "carpentry",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "14:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "carpentry",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "12:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "cnc-milling",
+    "level": "zone",
+    "briefing_date": "2025-05-28",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/kxz-vwka-pkk"
+  },
+  {
+    "skill_slug": "cnc-milling",
+    "level": "national",
+    "briefing_date": "2025-05-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/jeq-dcxr-gkt"
+  },
+  {
+    "skill_slug": "cooking",
+    "level": "zone",
+    "briefing_date": "2025-06-11",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/wgv-yuik-nvn"
+  },
+  {
+    "skill_slug": "cooking",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/qiv-cjro-iny"
+  },
+  {
+    "skill_slug": "electrical-installations",
+    "level": "zone",
+    "briefing_date": "2025-06-10",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/ptv-jdyz-xqz"
+  },
+  {
+    "skill_slug": "electrical-installations",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "14:00:00",
+    "meeting_url": "https://meet.google.com/xnu-znwe-syu"
+  },
+  {
+    "skill_slug": "electronics",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/iaz-yjri-yom"
+  },
+  {
+    "skill_slug": "electronics",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "10:30:00",
+    "meeting_url": "https://meet.google.com/zjt-yqva-vks"
+  },
+  {
+    "skill_slug": "fashion-technology",
+    "level": "zone",
+    "briefing_date": "2025-06-10",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/mwn-otsx-ben"
+  },
+  {
+    "skill_slug": "fashion-technology",
+    "level": "national",
+    "briefing_date": "2025-05-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/vou-uicr-mnq"
+  },
+  {
+    "skill_slug": "graphic-design-technology",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/xtn-apbb-bun"
+  },
+  {
+    "skill_slug": "graphic-design-technology",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/soi-zyit-bbc"
+  },
+  {
+    "skill_slug": "it-network-and-system-admin",
+    "level": "zone",
+    "briefing_date": "2025-06-11",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/cst-kzxb-yza"
+  },
+  {
+    "skill_slug": "it-network-and-system-admin",
+    "level": "national",
+    "briefing_date": "2025-07-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/yad-pgqu-ami"
+  },
+  {
+    "skill_slug": "landscape-gardening",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/azj-oifq-ysm"
+  },
+  {
+    "skill_slug": "landscape-gardening",
+    "level": "national",
+    "briefing_date": "2025-08-08",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/ria-uxsv-wpz"
+  },
+  {
+    "skill_slug": "mechanical-engineering-cad",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/que-cgqv-zga"
+  },
+  {
+    "skill_slug": "mechanical-engineering-cad",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/ysq-noes-esf"
+  },
+  {
+    "skill_slug": "painting-and-decorating",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/omv-dqbc-wfk"
+  },
+  {
+    "skill_slug": "painting-and-decorating",
+    "level": "national",
+    "briefing_date": "2025-08-08",
+    "start_time": "09:00:00",
+    "meeting_url": "https://meet.google.com/wdc-hfcr-chr"
+  },
+  {
+    "skill_slug": "patisserie-and-confectionery",
+    "level": "zone",
+    "briefing_date": "2025-06-13",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/mqn-mcdy-qux"
+  },
+  {
+    "skill_slug": "patisserie-and-confectionery",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "10:30:00",
+    "meeting_url": "https://meet.google.com/eai-xbfv-bah"
+  },
+  {
+    "skill_slug": "refrigeration-and-air-conditioning",
+    "level": "zone",
+    "briefing_date": "2025-06-10",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/lookup/gdldscmmzl"
+  },
+  {
+    "skill_slug": "refrigeration-and-air-conditioning",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/mru-cuba-kbd"
+  },
+  {
+    "skill_slug": "wall-and-floor-tiling",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "12:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "wall-and-floor-tiling",
+    "level": "national",
+    "briefing_date": "2025-06-08",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/vfo-akdu-mth"
+  },
+  {
+    "skill_slug": "web-technology",
+    "level": "zone",
+    "briefing_date": "2025-06-11",
+    "start_time": "11:00:00",
+    "meeting_url": "https://meet.google.com/uvs-rwsw-yiw"
+  },
+  {
+    "skill_slug": "web-technology",
+    "level": "national",
+    "briefing_date": "2025-08-06",
+    "start_time": "09:00:00",
+    "meeting_url": "https://meet.google.com/ghe-ykgb-ppz"
+  },
+  {
+    "skill_slug": "welding",
+    "level": "zone",
+    "briefing_date": "2025-06-12",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/jws-wmjq-mcs"
+  },
+  {
+    "skill_slug": "welding",
+    "level": "national",
+    "briefing_date": "2025-08-05",
+    "start_time": "10:00:00",
+    "meeting_url": "https://meet.google.com/ojw-gxxk-ckj"
+  }
+]

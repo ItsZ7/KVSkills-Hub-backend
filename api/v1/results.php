@@ -1,0 +1,3 @@
+<?php
+declare(strict_types=1);require __DIR__.'/_bootstrap.php';api_method('GET');
+$skillId=(int)($_GET['skill_id']??0);$sql="SELECT res.score,res.skill_category,res.award,res.rank_position,r.participant_name,r.institution,s.id skill_id,s.name skill_name,z.id zone_id,z.name zone_name FROM results res JOIN registrations r ON r.id=res.registration_id JOIN skills s ON s.id=r.skill_id JOIN zones z ON z.id=r.zone_id WHERE res.is_published=1 AND r.status='approved'";$params=[];if($skillId){$sql.=' AND r.skill_id=?';$params[]=$skillId;}$sql.=' ORDER BY s.sort_order,COALESCE(res.rank_position,999),res.score DESC';$stmt=db()->prepare($sql);$stmt->execute($params);json_response(['ok'=>true,'data'=>$stmt->fetchAll()]);
